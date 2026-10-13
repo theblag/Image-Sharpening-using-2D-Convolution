@@ -1,0 +1,10 @@
+Version,Dataset,Ranks,Time_ms
+MPI Optimized (v6),small,2,5.322233333333333
+MPI Optimized (v6),small,4,6.0645999999999995
+MPI Optimized (v6),small,8,8.790633333333332
+MPI Optimized (v6),medium,2,27.207633333333334
+MPI Optimized (v6),medium,4,16.431533333333334
+MPI Optimized (v6),medium,8,18.14923333333333
+MPI Optimized (v6),large,2,104.9063
+MPI Optimized (v6),large,4,61.38413333333333
+MPI Optimized (v6),large,8,69.38363333333332

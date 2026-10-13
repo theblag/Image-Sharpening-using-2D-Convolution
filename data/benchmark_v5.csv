@@ -1,0 +1,10 @@
+Version,Dataset,Ranks,Time_ms
+MPI Basic (v5),small,2,6.2351
+MPI Basic (v5),small,4,5.805033333333334
+MPI Basic (v5),small,8,8.258233333333333
+MPI Basic (v5),medium,2,22.758533333333332
+MPI Basic (v5),medium,4,14.429866666666667
+MPI Basic (v5),medium,8,16.17543333333333
+MPI Basic (v5),large,2,91.9153
+MPI Basic (v5),large,4,57.99036666666666
+MPI Basic (v5),large,8,57.249233333333336
